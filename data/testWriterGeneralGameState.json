@@ -1,0 +1,8 @@
+{
+    "scenario": "aba",
+    "inventory": [
+        {"name": "Hairpin Front Piece"},
+        {"name": "Hairpin Back Piece"},
+        {"name": "Map"}
+    ]
+}

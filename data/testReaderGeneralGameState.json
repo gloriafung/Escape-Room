@@ -1,0 +1,7 @@
+{
+  "scenario": "aaa",
+  "inventory": [
+    {"name": "Book"},
+    {"name": "Hammer"}
+  ]
+}
