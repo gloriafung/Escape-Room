@@ -1,6 +1,7 @@
 # Escape Room
 
 ## A Choose-Your-Path Game 
+<img src="https://github.com/gloriafung/Escape-Room/blob/main/example.png" width=400 height=350> 
 
 ***What will the application do?***
 
