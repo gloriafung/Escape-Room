@@ -6,11 +6,11 @@
 
 The application will provide users with a series of scenarios, emulating a character stuck in a room, forced
 to use the items around them to escape. Users will pick one out of two options, dictating what they want their character 
-to do. The next scenario you are faced with will depend on your answer to the previous. Throughout each scenario, 
-you will encounter items that can be added into your inventory to aid your escape. Depending on your choice of 
-actions, users will either successfully escape the room or fail. 
+to do. The next scenario users will faced with will depend on their answer to the previous. Throughout each scenario, 
+they will encounter items that can be added into an inventory to aid the escape. Depending on users' choice of 
+actions, they will either successfully escape the room or fail. 
 
-Users can also save the state of their game, and load it from file to return to a previous checkpoint. As the user exits 
+Users can also save the state of their game, and load it from file to return to a previous checkpoint. As users exit 
 the game, an event log is printed of all the items they have acquired in their inventory. 
 
 ***Who will use it?***
