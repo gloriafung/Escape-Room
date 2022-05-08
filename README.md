@@ -10,6 +10,9 @@ to do. The next scenario you are faced with will depend on your answer to the pr
 you will encounter items that can be added into your inventory to aid your escape. Depending on your choice of 
 actions, users will either successfully escape the room or fail. 
 
+Users can also save the state of their game, and load it from file to return to a previous checkpoint. As the user exits 
+the game, an event log is printed of all the items they have acquired in their inventory. 
+
 ***Who will use it?***
 
 This application will be used by those looking for a simple, fun activity to pass their time. Choose-your-path games 
@@ -28,22 +31,8 @@ and play myself.
 - As a user, I want to be able to advance to the next scenario depending on my previous answer 
 - As a user, I want to be able to add items into my inventory
 - As a user, I want to be able to save the state of my game to file 
-- As a user, I want to be able to load the state of my game from file, to return to a previous checkpoint
+- As a user, I want to be able to load the state of my game from file. 
 
-## Phase 4: Task 2
-![](../EventLog.png) 
-
-## Phase 4: Task 3
-- To improve the design of my code if I had more time, I would separate my GUI class into several classes. 
-  For example, I would have a "Panel" class for panels, "Button" for buttons, "Label" for labels, and more. 
-  This would adhere to the single responsibility design principle, ensuring that each class has one function. 
-  In addition, it would make my code easier to read and decrease the amount of clutter and disorganization in my 
-  GUI class.
-
-- Following the same concept, I would also move all my ActionListener classes, ex: "InitialScenarioOptions", 
-  "SaveLoadOptions", that are in GUI all into 1 class. 
-
-- I would also implement some switch statements, to replace many of the if statements I have, for efficiency. 
 
 
 
