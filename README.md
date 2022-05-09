@@ -7,7 +7,7 @@
 
 The application will provide users with a series of scenarios, emulating a character stuck in a room, forced
 to use the items around them to escape. Users will pick one out of two options, dictating what they want their character 
-to do. The next scenario users will faced with will depend on their answer to the previous. Throughout each scenario, 
+to do. The next scenario users will be faced with will depend on their answer to the previous. Throughout each scenario, 
 they will encounter items that can be added into an inventory to aid the escape. Depending on users' choice of 
 actions, they will either successfully escape the room or fail. 
 
